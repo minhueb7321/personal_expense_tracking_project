@@ -13,7 +13,7 @@ Dự án sử dụng Google Looker Studio để trực quan hóa dữ liệu chi
 
 Ảnh minh họa Looker Studio dashboard:
 
-![Dashboard](./dashboard-preview.png)
+![Dashboard](![image](https://github.com/user-attachments/assets/f28595b2-763c-49f1-901d-75629ebde9e9))
 
 ## 📁 Dữ liệu nguồn
 
